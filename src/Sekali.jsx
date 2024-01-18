@@ -1,5 +1,5 @@
 import React from 'react'
-import './all.css'
+import './sk.css'
 export default function Login() {
     return (
         <div className='containerLogin'>
